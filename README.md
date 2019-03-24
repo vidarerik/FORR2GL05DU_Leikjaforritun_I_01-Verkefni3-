@@ -5,6 +5,6 @@ Viðar Erik Viðarsson
 Tölvubraut
 Tækniskólinn
 
-Tutorial voru sótt á youtube og udemy.
+Tutorials voru sótt á youtube og udemy assetar sem voru notaðir sóttir inná unity asset store sem voru models,particle effect,post processing("filter"),
 
 Ókláruð skref eða áætluð skref voru að bæta við AI sem eltir leikara. Ef að AI snertir leikara endarleikur og stig eru skrá í high score töflu.
